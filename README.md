@@ -1,4 +1,4 @@
-# 🤖 IAISeek.com - Your Trusted AI Navigation & News Portal
+# 🤖 IAISeek.com - Your Trusted AI Navigation & News Portal & The latest AI information, thoughtful AI articles
 
 >  A modern hub for everything AI: Latest News, Tool Directory, and Intelligent Discovery.
 
